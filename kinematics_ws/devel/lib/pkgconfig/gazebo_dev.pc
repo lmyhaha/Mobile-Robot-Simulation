@@ -1,0 +1,8 @@
+prefix=/home/mustar/kinematics_ws/devel
+
+Name: gazebo_dev
+Description: Description of gazebo_dev
+Version: 2.5.20
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

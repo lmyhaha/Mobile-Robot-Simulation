@@ -1,0 +1,10 @@
+
+<launch>
+
+    <node pkg="map_server" name="map_server" type="map_server" args="$(find astar)/../turtlebot3/turtlebot3_navigation/maps/map.yaml"/>
+
+    <node pkg="astar" type="astar" name="astar" output="screen">
+    </node>
+
+
+</launch>

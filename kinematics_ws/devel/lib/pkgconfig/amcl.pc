@@ -1,0 +1,8 @@
+prefix=/home/mustar/kinematics_ws/devel
+
+Name: amcl
+Description: Description of amcl
+Version: 1.14.9
+Cflags: -I/home/mustar/kinematics_ws/devel/include -I/home/mustar/kinematics_ws/src/navigation/amcl/include
+Libs: -L${prefix}/lib -lamcl_sensors -lamcl_map -lamcl_pf
+Requires: rosbag roscpp dynamic_reconfigure tf nav_msgs std_srvs

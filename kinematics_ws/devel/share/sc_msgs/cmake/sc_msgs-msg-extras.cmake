@@ -1,0 +1,2 @@
+set(sc_msgs_MESSAGE_FILES "/home/mustar/kinematics_ws/src/sc_msgs/msg/robot_state.msg;/home/mustar/kinematics_ws/src/sc_msgs/msg/parameters.msg;/home/mustar/kinematics_ws/src/sc_msgs/msg/vision_rect.msg;/home/mustar/kinematics_ws/src/sc_msgs/msg/intf_state.msg;/home/mustar/kinematics_ws/src/sc_msgs/msg/vision_line.msg")
+set(sc_msgs_SERVICE_FILES "/home/mustar/kinematics_ws/src/sc_msgs/srv/GetParamList.srv;/home/mustar/kinematics_ws/src/sc_msgs/srv/SetParamList.srv")

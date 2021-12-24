@@ -1,0 +1,8 @@
+prefix=/home/mustar/kinematics_ws/devel
+
+Name: sc_hw
+Description: Description of sc_hw
+Version: 0.1.0
+Cflags: -I/home/mustar/kinematics_ws/src/sc_hw/include
+Libs: -L${prefix}/lib 
+Requires: 
